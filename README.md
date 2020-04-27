@@ -48,6 +48,7 @@ Exemplo de configuração para montar um widget dentro do elemento do DOM ID wid
 </script>
 ```
 
+
 [Exemplo de aplicação do Widget em Blog](http://wwww.geru.com.br)
 
-[Donwload do biblioteca Javascript](http://wwww.geru.com.br)
+[Donwload da biblioteca Javascript](http://wwww.geru.com.br)
